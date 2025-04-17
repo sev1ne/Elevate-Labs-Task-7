@@ -38,5 +38,5 @@ This project demonstrates how to connect a simple SQLite database to Python, run
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/madhanarasan/Task-7
+git clone https://github.com/sev1ne/Elevate-Labs-Task-7
 
